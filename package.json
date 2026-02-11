@@ -1,0 +1,19 @@
+{
+  "name": "automation-input-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "geckodriver": "^6.1.0",
+    "selenium-webdriver": "^4.40.0",
+    "sheetjs": "https://cdn.sheetjs.com/xlsx-latest/xlsx-latest.tgz"
+  }
+}
